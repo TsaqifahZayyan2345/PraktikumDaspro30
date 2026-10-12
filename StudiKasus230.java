@@ -14,7 +14,7 @@ public class StudiKasus230 {
         System.out.print("Nama mahasiswa: ");
         namaMahasiswa = sc.nextLine();
 
-        System.out.println("\nJenis kegiatan:");
+        System.out.println("Jenis kegiatan:");
         System.out.println("1. BELMAWA");
         System.out.println("2. BAKORMA");
         System.out.println("3. PKM");
@@ -44,7 +44,7 @@ public class StudiKasus230 {
         System.out.print("Status pendanaan PKM (1 = lolos, 0 = tidak lolos): ");
         pendanaan = sc.nextInt();
 
-        System.out.println("\n=== HASIL SELEKSI ===");
+        System.out.println("=== HASIL SELEKSI ===");
         System.out.println("Nama mahasiswa: " + namaMahasiswa);
         System.out.println("Jenis kegiatan: " + jenisKegiatan);
 
