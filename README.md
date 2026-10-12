@@ -4,7 +4,7 @@ NIM: 264107060119
 Kelas: SIB-1E
 
 
-Hasil Uji Studi Kasus 2 oleh <Raziq Awalia> 
+Hasil Uji Studi Kasus 2 oleh Raziq Awalia
 | No |  Jenis     | Dokumen | Juara/Dana |              Output               | Sesuai? |
 |----|------------|---------|------------|-----------------------------------|---------|
 | 1  | BAKORMA (2)|    3    | Juara 1    | Tidak diberikan, kurang 1 dokumen |   Ya    |
